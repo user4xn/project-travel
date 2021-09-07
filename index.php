@@ -26,6 +26,10 @@
 </head>
 <body data-spy="scroll" data-target="#navbarNav" data-offset="50">
 	  
+    <!-- CALL LINK -->
+    <a href="#" target="_blank" class="float-top">
+        <i class="fas fa-phone-square my-float-top"></i>
+    </a>
     <!-- WHATSAPP LINK -->
     <a href="https://wa.me/+6281227082077?text=Halo%20Saya%20Ingin%20Pesan%20Travel" target="_blank" class="float">
         <i class="fab fa-whatsapp my-float"></i>

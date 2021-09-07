@@ -26,6 +26,10 @@
 </head>
 <body data-spy="scroll" data-target="#navbarNav" data-offset="50">
 
+	<!-- CALL LINK -->
+    <a href="#" target="_blank" class="float-top">
+        <i class="fas fa-phone-square my-float-top"></i>
+    </a>
 	<!-- WHATSAPP LINK -->
     <a href="https://wa.me/+6281227082077?text=Halo%20Saya%20Ingin%20Pesan%20Travel" target="_blank" class="float">
         <i class="fab fa-whatsapp my-float"></i>
@@ -153,7 +157,7 @@
 			                       </select>
 			                   </div>
 			               </div>
-			               <input type="submit" class="btn custom-btn bordered mt-3" value="Cari Tour!">
+			               <input type="submit" class="btn custom-btn bordered mt-3" style="width:100%" value="Cari Tour!">
 		                 	</form>
 			           </div>
 			           <!-- KOLOM TOUR -->
@@ -251,19 +255,6 @@
         </div>
       </div>
     </div>
-
-
-    <!-- FOOTER -->
-    <section class="schedule section pt-3 pb-2" id="schedule">
-              <div class="container">
-                   <div class="row">
-                       <div class=" col-lg-12 col-md-12 text-center">
-                           <p class="copyright-text">Copyright &copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> Baritrans</p>
-                       </div>
-                   </div>
-              </div>
-    </section>
-
     <!-- SCRIPTS -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

@@ -25,7 +25,11 @@
      </style>
 </head>
 <body data-spy="scroll" data-target="#navbarNav" data-offset="50">
-	
+	 
+    <!-- CALL LINK -->
+    <a href="#" target="_blank" class="float-top">
+        <i class="fas fa-phone-square my-float-top"></i>
+    </a>
     <!-- WHATSAPP LINK -->
     <a href="https://wa.me/+6281227082077?text=Halo%20Saya%20Ingin%20Pesan%20Travel" target="_blank" class="float">
         <i class="fab fa-whatsapp my-float"></i>
@@ -60,48 +64,46 @@
                 <div class="col-lg-8 col-md-10 mx-auto col-12">
                     <div class="hero-text mt-5 text-center" data-aos="fade-down" data-aos-delay="400">
                         <h3 class="text-white mb-4">HASIL PENCARIAN <span class="main-title">TOUR</span></h3>
-                        <div class="row pl-5 pr-5">
-                            <form>                
-                            <div class="row pl-5 pr-5">
-                                <div class="col-md-4 pr-1 pl-1">
-                                    <select class="wide mb-3">
-                                      <option selected>Semua Kategori</option>
-                                      <option value="Banjar Negara">Banjar Negara</option>
-                                      <option value="Purbalingga">Purbalingga</option>
-                                      <option value="Cilacap">Cilacap</option>
-                                      <option value="Purwokerto">Purwokerto</option>
-                                      <option value="Wonosobo">Wonosobo</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-4 pr-1 pl-1">
-                                    <select class="wide mb-3">
-                                      <option selected>Semua Destinasi</option>
-                                      <option value="bandung">Bandung</option>
-                                      <option value="jakarta">Jakarta</option>
-                                      <option value="jepara">Jepara</option>
-                                      <option value="jogja">Jogja</option>
-                                      <option value="kudus">Kudus</option>
-                                      <option value="pati">Pati</option>
-                                      <option value="purwodadi">Purwodadi</option>
-                                      <option value="semarang">Semarang</option>
-                                      <option value="solo">Solo</option>
-                                      <option value="wonosobo">Wonosobo</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-4 pr-1 pl-1">
-                                    <select class="wide mb-3">
-                                      <option selected>Semua Durasi</option>
-                                      <option value="08.00">08.00</option>
-                                      <option value="16.00">16.00</option>
-                                      <option value="20.00">20.00</option>
-                                      <option value="22.00">22.00</option>
-                                    </select>
-                                </div>
+                        <form>                
+                        <div class="row pl-4 pr-4">
+                            <div class="col-md-4 pr-1 pl-1">
+                                <select class="wide mb-3">
+                                  <option selected>Semua Kategori</option>
+                                  <option value="Banjar Negara">Banjar Negara</option>
+                                  <option value="Purbalingga">Purbalingga</option>
+                                  <option value="Cilacap">Cilacap</option>
+                                  <option value="Purwokerto">Purwokerto</option>
+                                  <option value="Wonosobo">Wonosobo</option>
+                                </select>
                             </div>
-                            <input type="submit" class="btn custom-btn bordered mt-3" value="Cari Tour!">
-                            </form>
+                            <div class="col-md-4 pr-1 pl-1">
+                                <select class="wide mb-3">
+                                  <option selected>Semua Destinasi</option>
+                                  <option value="bandung">Bandung</option>
+                                  <option value="jakarta">Jakarta</option>
+                                  <option value="jepara">Jepara</option>
+                                  <option value="jogja">Jogja</option>
+                                  <option value="kudus">Kudus</option>
+                                  <option value="pati">Pati</option>
+                                  <option value="purwodadi">Purwodadi</option>
+                                  <option value="semarang">Semarang</option>
+                                  <option value="solo">Solo</option>
+                                  <option value="wonosobo">Wonosobo</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4 pr-1 pl-1">
+                                <select class="wide mb-3">
+                                  <option selected>Semua Durasi</option>
+                                  <option value="08.00">08.00</option>
+                                  <option value="16.00">16.00</option>
+                                  <option value="20.00">20.00</option>
+                                  <option value="22.00">22.00</option>
+                                </select>
+                            </div>
                         </div>
-                    /div>
+                        <input type="submit" class="btn custom-btn bordered mt-3" value="Cari Tour!">
+                        </form>
+                    </div>
                </div>
             </div>
         </div>

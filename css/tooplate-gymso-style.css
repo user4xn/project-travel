@@ -12,12 +12,31 @@
   z-index: 9;
 }
 
+.float-top{
+  position:fixed;
+  width:50px;
+  height:50px;
+  bottom:100px;
+  right:40px;
+  background-color:#383d41;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size: 30px;
+  z-index: 9;
+}
+
 .my-float{
   margin-top:-22px;
   color: #fff;
 }
 
-.float:hover, .my-float:hover {
+.my-float-top{
+  margin-top:-22px;
+  color: #fff;
+}
+
+.float:hover, .my-float:hover, .float-top:hover, .my-float-top:hover {
   transform: rotate(-15deg);
   transition: ease 1s;
 }

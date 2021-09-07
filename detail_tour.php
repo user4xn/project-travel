@@ -27,7 +27,11 @@
 </head>
 <body data-spy="scroll" data-target="#navbarNav" data-offset="50">
 
-	<!-- WHATSAPP LINK -->
+    <!-- CALL LINK -->
+    <a href="#" target="_blank" class="float-top">
+        <i class="fas fa-phone-square my-float-top"></i>
+    </a>
+	  <!-- WHATSAPP LINK -->
     <a href="https://wa.me/+6281227082077?text=Halo%20Saya%20Ingin%20Pesan%20Travel" target="_blank" class="float">
         <i class="fab fa-whatsapp my-float"></i>
     </a>
@@ -68,8 +72,8 @@
         </div>
     </section>
 
-	<!-- TOUR -->
-	<section class="class section pt-3" id="class">
+	<!-- CONTENT -->
+	<section class="class section pt-3 pb-0" id="class">
 	    <div class="container">
 	        <div class="col-lg-12 p-0 col-12 text-left mb-5">
 	         	<div class="row">
